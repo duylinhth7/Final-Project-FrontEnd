@@ -1,0 +1,94 @@
+.layoutdefault{
+    &__header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #F1F1F1;
+        padding: 15px 20px;
+        position: fixed;
+        z-index: 999;
+        width: 100%;
+    }
+    &__menu ul{
+        display: flex;
+        text-decoration: none;
+        list-style: none;
+    }
+    &__menu ul a{
+        text-decoration: none;
+    }
+    &__logo{
+        font-size: 25px;
+        color: #2078F9;
+        font-weight: 900;
+        text-decoration: none;
+    }
+    &__login{
+        background-color: #fff;
+        width: 80px;
+        height: 28px;
+        text-align: center;
+        line-height: 28px;
+        border-radius: 4px;
+        font-size: 15px;
+        font-weight: 480;
+        margin-right: 20px;
+        border: 1px solid #ddd;
+
+    }
+    &__login a{
+        color:  #000 !important;
+    }
+    &__register{
+        background-color: #2078F9;
+        width: 80px;
+        height: 28px;
+        text-align: center;
+        line-height: 28px;
+        border-radius: 4px;
+        font-size: 15px;
+        font-weight: 500;
+        border: 1px solid #ddd
+    }
+    &__register a{
+        color: #fff;
+    }
+    &__main{
+        padding: 200px 20px;
+    }
+    &__footer{
+        background-color: #000;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+    }
+    &__admin{
+        width: 100px;
+        height: 25px;
+        line-height: 25px;
+        border: 1px solid #ddd;
+        text-align: center;
+        background-color: #fff;
+        font-size: 15px;
+        border-radius: 5px;
+        margin-right: 10px;
+        a{
+            color: #000 !important;
+            font-weight: 400;
+        }
+    }
+    &__logout{
+        width: 100px;
+        height: 25px;
+        line-height: 25px;
+        border: 1px solid #ddd;
+        text-align: center;
+        background-color: #fff;
+        font-size: 15px;
+        border-radius: 5px;
+        a{
+            color: #000 !important;
+            font-weight: 400;
+        }
+    }
+}

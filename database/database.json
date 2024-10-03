@@ -1,0 +1,321 @@
+{
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội",
+      "id": "3620"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh",
+      "id": "76a0"
+    },
+    {
+      "key": 1,
+      "value": "Đà Nẵng",
+      "id": "a969"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1",
+      "value": "HTML"
+    },
+    {
+      "id": "2",
+      "value": "CSS"
+    },
+    {
+      "id": "3",
+      "value": "JavaScript"
+    },
+    {
+      "id": "4",
+      "value": "Database"
+    },
+    {
+      "id": "5",
+      "value": "JSON"
+    },
+    {
+      "id": "6",
+      "value": "PHP"
+    },
+    {
+      "id": "7",
+      "value": "Python"
+    },
+    {
+      "id": "8",
+      "value": "Java"
+    }
+  ],
+  "jobs": [
+    {
+      "name": "Frontend Dev (Angular/ReactJS)!!",
+      "tag": [
+        "JavaScript",
+        "JSON",
+        "CSS",
+        "Database",
+        "Python"
+      ],
+      "salary": "2000",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "description": "We are looking for a Frontend Developer with experience in Angular and ReactJS to join our team. You will work closely with designers and backend developers to create a seamless user experience.",
+      "status": true,
+      "updateAt": "29-08-2024 22:00:41",
+      "timeCreatJob": "29-08-2024 21:23:42",
+      "idCompany": "1",
+      "companyName": "Công ty A",
+      "id": "1"
+    },
+    {
+      "name": "Backend Dev (Node.js)",
+      "tag": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "salary": "1200",
+      "city": [
+        "Hồ Chí Minh"
+      ],
+      "description": "Seeking a Backend Developer proficient in Node.js and Express to build RESTful APIs and maintain database integrity.",
+      "status": false,
+      "updateAt": "01-09-2024 20:17:13",
+      "timeCreatJob": "28-04-2023 09:30:00",
+      "idCompany": "2",
+      "companyName": "Công ty B",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "idCompany": "3",
+      "companyName": "Công ty C",
+      "name": "Full Stack Developer",
+      "tag": [
+        "JavaScript",
+        "ReactJS",
+        "Node.js"
+      ],
+      "salary": "1500",
+      "description": "Looking for a Full Stack Developer who is experienced in both frontend and backend technologies to help us build scalable applications.",
+      "status": true,
+      "city": [
+        "Đà Nẵng"
+      ],
+      "timeCreatJob": "27-04-2023 08:15:00"
+    },
+    {
+      "name": "Data Analyst",
+      "tag": [
+        "Database",
+        "Python",
+        "JSON"
+      ],
+      "salary": "1500",
+      "city": [
+        "Hà Nội"
+      ],
+      "description": "Phân tích dữ liệu!",
+      "status": true,
+      "updateAt": "29-08-2024 23:10:18",
+      "timeCreatJob": "29-08-2024 23:10:10",
+      "idCompany": "1",
+      "companyName": "Công ty A",
+      "id": "f4e2"
+    },
+    {
+      "name": "Frontend Dev (Angular/ReactJS)",
+      "tag": [
+        "HTML",
+        "JavaScript",
+        "Database",
+        "Python",
+        "Java"
+      ],
+      "salary": "2000",
+      "city": [
+        "Hà Nội",
+        "Hồ Chí Minh",
+        "Đà Nẵng"
+      ],
+      "description": "fews",
+      "status": true,
+      "updateAt": "30-08-2024 00:45:14",
+      "timeCreatJob": "30-08-2024 00:44:59",
+      "idCompany": "1485",
+      "companyName": "undefined",
+      "id": "0350"
+    },
+    {
+      "name": "Computer Science",
+      "tag": [
+        "Python",
+        "Java",
+        "Database"
+      ],
+      "salary": "3000",
+      "city": [
+        "Đà Nẵng",
+        "Hà Nội",
+        "Hồ Chí Minh"
+      ],
+      "description": "Khóa học máy tính!",
+      "status": true,
+      "updateAt": "02-09-2024 15:40:53",
+      "timeCreatJob": "01-09-2024 22:50:32",
+      "idCompany": "2f1a",
+      "companyName": "Hoàng Duy Linh!",
+      "id": "cb9e"
+    }
+  ],
+  "cv": [
+    {
+      "id": "2adf",
+      "name": "Hoàng Duy Linh",
+      "phone": "0355473115",
+      "email": "hoanglinhdz2k4@gmail.com",
+      "city": "Hà Nội",
+      "description": "qư",
+      "linkProject": "ư",
+      "idCompany": "1",
+      "idJob": "1",
+      "statusRead": true,
+      "nameJob": "Frontend Dev (Angular/ReactJS)!!",
+      "createAt": "30-08-2024 00:29:36"
+    },
+    {
+      "id": "5861",
+      "name": "ửd",
+      "phone": "ưg",
+      "email": "ưg",
+      "city": "Hà Nội",
+      "description": "ưg",
+      "linkProject": "ưg",
+      "idCompany": "1",
+      "idJob": "1",
+      "statusRead": true,
+      "nameJob": "Data Analyst",
+      "createAt": "30-08-2024 00:32:05"
+    },
+    {
+      "id": "409f",
+      "name": "ưef",
+      "phone": "zsfd",
+      "email": "few",
+      "city": "Hà Nội",
+      "description": "few",
+      "linkProject": "è",
+      "idCompany": "1",
+      "idJob": "1",
+      "statusRead": true,
+      "nameJob": "Data Analyst",
+      "createAt": "30-08-2024 00:32:58"
+    },
+    {
+      "id": "34ad",
+      "name": "Hoàng Duy Linh",
+      "phone": "0355473115",
+      "email": "hoanglinhdz2k4@gmail.com",
+      "city": "Hồ Chí Minh",
+      "description": "rg",
+      "linkProject": "gr",
+      "idCompany": "2",
+      "idJob": "2",
+      "statusRead": true,
+      "nameJob": "Backend Dev (Node.js)",
+      "createAt": "30-08-2024 00:45:58"
+    },
+    {
+      "id": "7fbe",
+      "name": "Hoàng Duy Linh",
+      "phone": "0355473115",
+      "email": "hoanglinhdz2k4@gmail.com",
+      "city": "Hà Nội",
+      "description": "gd",
+      "linkProject": "gd",
+      "idCompany": "2f1a",
+      "idJob": "2f1a",
+      "statusRead": true,
+      "nameJob": "Computer Science",
+      "createAt": "01-09-2024 22:54:07"
+    }
+  ],
+  "commpany": [
+    {
+      "companyName": "Công ty A",
+      "email": "abc@gmail.com",
+      "phone": "0987654321",
+      "address": "123 đường Trần Phú, Hà Nội",
+      "quanlityPeople": "18",
+      "workingTime": "T2 - T6",
+      "password": "12345",
+      "website": "http://abc.com",
+      "description": "Tầm nhìn trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ tại Việt Nam, với sứ mệnh mang đến những sản phẩm chất lượng cao và dịch vụ tận tâm.",
+      "detail": "Chúng tôi cung cấp mức lương cạnh tranh và môi trường làm việc thân thiện, khuyến khích sáng tạo và phát triển. Nhân viên sẽ có cơ hội tham gia các khóa đào tạo, hội thảo và sự kiện công nghệ để nâng cao kỹ năng cá nhân và nghề nghiệp",
+      "id": "1"
+    },
+    {
+      "companyName": "Công ty XYZ",
+      "email": "xyz@gmail.com",
+      "phone": "0123456789",
+      "address": "456 đường Lê Lợi, Hồ Chí Minh",
+      "quanlityPeople": 15,
+      "password": "12345",
+      "workingTime": "T2 - T6",
+      "website": "http://xyz.com",
+      "description": "Giám đốc của công ty chúng tôi là ông Hoàng Duy Linh",
+      "detail": "Chế độ đãi ngộ hấp dẫn, với các phúc lợi như bảo hiểm sức khỏe, du lịch hàng năm và các hoạt động teambuilding. Chúng tôi cũng khuyến khích nhân viên tham gia vào các dự án cộng đồng và phát triển cá nhân....\n",
+      "id": "2"
+    },
+    {
+      "companyName": "Công ty C",
+      "phone": "0123456733",
+      "email": "c@gmail.com",
+      "password": "abcdef",
+      "token": "xyz433randomtoken",
+      "id": "3",
+      "quanlityPeople": 15,
+      "description": "Chúng tôi cung cấp các giải pháp công nghệ tiên tiến, hướng đến sự phát triển bền vững và tạo ra giá trị cho khách hàng.",
+      "detail": "Chế độ đãi ngộ hấp dẫn, với các phúc lợi như bảo hiểm sức khỏe, du lịch hàng năm và các hoạt động teambuilding. Chúng tôi cũng khuyến khích nhân viên tham gia vào các dự án cộng đồng và phát triển cá nhân.",
+      "address": "456 đường Lê Lợi, Hồ Chí Minh",
+      "workingTime": "T2 - T6",
+      "website": "http://c.com"
+    },
+    {
+      "id": "1485",
+      "name": "HUMG",
+      "phone": "0355473115",
+      "email": "humg.edu.vn",
+      "password": "humg",
+      "token": "yC6N4F72DOU1hnkk0xhe",
+      "companyName": "Hoàng Duy Linh",
+      "address": "humg",
+      "quanlityPeople": "15",
+      "workingTime": "T2 - T6",
+      "website": "hoangduylinh.humg",
+      "description": "df",
+      "detail": "dg"
+    },
+    {
+      "companyName": "Hoàng Duy Linh!",
+      "email": "hoanglinhdz2k4@gmail.com",
+      "phone": "0842951626",
+      "address": "Việt Nam",
+      "quanlityPeople": "15",
+      "token": "yC6N4F72DOU1hnkk0xhr",
+      "workingTime": "T2 - T6",
+      "password": "123",
+      "website": "hoangduylinh.humg",
+      "description": "Công ty đa ngành",
+      "detail": "Công ty đa quốc gia",
+      "id": "2f1a"
+    }
+  ]
+}

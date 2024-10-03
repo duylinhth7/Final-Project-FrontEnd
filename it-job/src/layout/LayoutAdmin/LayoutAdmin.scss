@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+.layout__admin{
+    &-content{
+        background-color: #fff;
+    }
+}
+.layout__admin-siderCollapsed{
+    width: 22px !important;
+}
+.header{
+    display: flex;
+    padding: 15px 0;
+    border: 1px solid #ddd;
+    &__logo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 270px;
+        font-size: 25px;
+        text-decoration: none;
+        color: #2078F9;
+        font-weight: 900;
+    }
+    &__logo--collapsed{
+        width: 80px;
+    }
+    &__nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0 30px 0 0;
+        &-right{
+            list-style: none;
+            display: flex;
+            a{
+                text-decoration: none;
+            }
+        }
+    }
+}

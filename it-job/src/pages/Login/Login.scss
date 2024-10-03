@@ -1,0 +1,25 @@
+.strong{
+    color: #2078F9;
+    font-weight: 800;
+}
+.form{
+    display: flex;
+    &__login{
+        min-width: 50%;
+    }
+    &__description{
+        h3{
+            max-width: 500px;
+            font-size: 20px;
+        }
+        &-list{
+            list-style: circle;
+            li{
+                font-size: 16px;
+                font-weight: 600;
+                font-style: italic;
+                margin-bottom: 20px;
+            }
+        }
+    }
+}
